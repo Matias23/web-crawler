@@ -1,0 +1,8 @@
+resolvers\ResolverByTitle.class
+resolvers\ResolverById.class
+application\WebCrawler.class
+resolvers\ElementResolver.class
+resolvers\ResolverByClass.class
+resolvers\ResolverByHref.class
+resolvers\ResolverOnClick.class
+resolvers\ResolverByText.class

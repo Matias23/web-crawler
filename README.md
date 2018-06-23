@@ -2,6 +2,14 @@
 
 This app allows to look for a given HTML element given its id.
 
+## Introduction
+
+The parameters of the application must be sent by application parameters.
+Three parameters are required, since:
+1st parameter: Url of the HTML file where the element to be searched is
+2nd parameter: Url of the HTML file where the element is going to be searched
+3rd parameter: Id of the html element in the first HTML file
+
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
