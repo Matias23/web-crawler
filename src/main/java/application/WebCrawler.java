@@ -9,19 +9,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Iterator;
 
-public class WebCrawler
-{
-    public static void main( String[] args ) {
-
-        final String baseHTMLUrl = args[0];
-        final String toBeSearchedHTMLUrl = args[1];
-        final String elementIdSearched = args[2];
-
-        System.out.println( "Starting crawler" );
-        WebCrawler wc = new WebCrawler();
-        System.out.println("The path to the desired element in the second file is: " + wc.getPathToElement(baseHTMLUrl,
-                toBeSearchedHTMLUrl, elementIdSearched));
-    }
+public class WebCrawler {
 
     public String getPathToElement(String baseHTMLUrl, String toBeSearchedHTMLUrl, String idSearched){
         try {
@@ -62,4 +50,5 @@ public class WebCrawler
         }
         return maxElem;
     }
+
 }

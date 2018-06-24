@@ -3,26 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="2c581785-54e9-4cbd-8063-042f39b9054f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mricotta/ElementResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resolvers/ElementResolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mricotta/ResolverByClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resolvers/ResolverByClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mricotta/ResolverByHref.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resolvers/ResolverByHref.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mricotta/ResolverById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resolvers/ResolverById.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mricotta/ResolverByText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resolvers/ResolverByText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mricotta/ResolverByTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resolvers/ResolverByTitle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mricotta/ResolverOnClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resolvers/ResolverOnClick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mricotta/WebCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/WebCrawler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mricotta/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mricotta/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mricotta/ElementResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mricotta/ResolverByClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mricotta/ResolverByHref.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mricotta/ResolverById.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mricotta/ResolverByText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mricotta/ResolverByTitle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mricotta/ResolverOnClick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mricotta/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/WebCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/WebCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AgileEngineCrawlerTest-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/AgileEngineCrawlerTest-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application/WebCrawler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application/WebCrawler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/AppTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,17 +25,17 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="1190">
               <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebCrawler.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WebCrawler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/application/WebCrawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="184">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,14 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="187">
-                <caret line="11" selection-start-line="11" selection-end-line="11" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -71,12 +55,10 @@
       <file leaf-file-name="ResolverByClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverByClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="68">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,12 +67,10 @@
       <file leaf-file-name="ResolverOnClick.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverOnClick.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="68">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,14 +79,10 @@
       <file leaf-file-name="ElementResolver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ElementResolver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="68">
               <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,12 +91,10 @@
       <file leaf-file-name="ResolverById.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverById.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="68">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,12 +103,10 @@
       <file leaf-file-name="ResolverByText.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverByText.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="68">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,10 +117,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -158,10 +126,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -174,6 +138,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>multiplicationOfZeroIntegersShouldReturnZero</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -195,6 +164,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/resolvers/ResolverOnClick.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/AppTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/WebCrawler.java" />
       </list>
     </option>
@@ -215,9 +185,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
-    <option name="y" value="104" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-126" />
+    <option name="y" value="116" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -227,7 +197,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,6 +208,27 @@
               <item name="AgileEngineCrawlerTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AgileEngineCrawlerTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AgileEngineCrawlerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AgileEngineCrawlerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AgileEngineCrawlerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AgileEngineCrawlerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AgileEngineCrawlerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AgileEngineCrawlerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AgileEngineCrawlerTest" type="b2602c69:ProjectViewProjectNode" />
@@ -275,6 +265,7 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -307,31 +298,124 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WebCrawler (1)">
-    <configuration name="WebCrawler (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="application.WebCrawler" />
-      <module name="AgileEngineCrawlerTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="WebCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.WebCrawler" />
-      <module name="AgileEngineCrawlerTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="resolvers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.AppTest.fourthHTMLSearchWorksFine">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="AppTest.firstHTML" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AgileEngineCrawlerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.AppTest" />
+      <option name="METHOD_NAME" value="firstHTML" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AppTest.fourthHTMLSearchWorksFine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AgileEngineCrawlerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.AppTest" />
+      <option name="METHOD_NAME" value="fourthHTMLSearchWorksFine" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AppTest.multiplicationOfZeroIntegersShouldReturnZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AgileEngineCrawlerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.AppTest" />
+      <option name="METHOD_NAME" value="multiplicationOfZeroIntegersShouldReturnZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AppTest.secondHTMLSearchWorksFine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AgileEngineCrawlerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.AppTest" />
+      <option name="METHOD_NAME" value="secondHTMLSearchWorksFine" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AppTest.thirdHTMLSearchWorksFine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AgileEngineCrawlerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.AppTest" />
+      <option name="METHOD_NAME" value="thirdHTMLSearchWorksFine" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -372,13 +456,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.WebCrawler" />
-      <item itemvalue="Application.WebCrawler (1)" />
+      <item itemvalue="JUnit.AppTest.multiplicationOfZeroIntegersShouldReturnZero" />
+      <item itemvalue="JUnit.AppTest.firstHTML" />
+      <item itemvalue="JUnit.AppTest.secondHTMLSearchWorksFine" />
+      <item itemvalue="JUnit.AppTest.thirdHTMLSearchWorksFine" />
+      <item itemvalue="JUnit.AppTest.fourthHTMLSearchWorksFine" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WebCrawler (1)" />
-        <item itemvalue="Application.WebCrawler" />
+        <item itemvalue="JUnit.AppTest.fourthHTMLSearchWorksFine" />
+        <item itemvalue="JUnit.AppTest.thirdHTMLSearchWorksFine" />
+        <item itemvalue="JUnit.AppTest.secondHTMLSearchWorksFine" />
+        <item itemvalue="JUnit.AppTest.firstHTML" />
+        <item itemvalue="JUnit.AppTest.multiplicationOfZeroIntegersShouldReturnZero" />
       </list>
     </recent_temporary>
   </component>
@@ -393,15 +483,43 @@
       <option name="presentableId" value="Default" />
       <updated>1529768931175</updated>
       <workItem from="1529768935548" duration="3890000" />
-      <workItem from="1529773808149" duration="16472000" />
+      <workItem from="1529773808149" duration="16960000" />
+      <workItem from="1529853246475" duration="2365000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AppTest_multiplicationOfZeroIntegersShouldReturnZero - 2018.06.24 at 12h 41m 25s.xml">
+      <configuration name="AppTest.multiplicationOfZeroIntegersShouldReturnZero" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_multiplicationOfZeroIntegersShouldReturnZero - 2018.06.24 at 12h 41m 43s.xml">
+      <configuration name="AppTest.multiplicationOfZeroIntegersShouldReturnZero" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_firstHTML - 2018.06.24 at 12h 42m 16s.xml">
+      <configuration name="AppTest.firstHTML" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_firstHTML - 2018.06.24 at 12h 44m 56s.xml">
+      <configuration name="AppTest.firstHTML" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_secondHTMLSearchWorksFine - 2018.06.24 at 12h 45m 05s.xml">
+      <configuration name="AppTest.secondHTMLSearchWorksFine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_thirdHTMLSearchWorksFine - 2018.06.24 at 12h 45m 47s.xml">
+      <configuration name="AppTest.thirdHTMLSearchWorksFine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_secondHTMLSearchWorksFine - 2018.06.24 at 12h 49m 33s.xml">
+      <configuration name="AppTest.secondHTMLSearchWorksFine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_thirdHTMLSearchWorksFine - 2018.06.24 at 12h 49m 42s.xml">
+      <configuration name="AppTest.thirdHTMLSearchWorksFine" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20362000" />
+    <option name="totallyTimeSpent" value="23215000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="104" width="1346" height="688" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -413,11 +531,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36125654" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3608903" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.256391" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -459,12 +577,6 @@
           <line>19</line>
           <properties />
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/application/WebCrawler.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="11" />
@@ -517,6 +629,97 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="187">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverByClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverOnClick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ElementResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverById.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverByText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverByTitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverByHref.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/WebCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
         </state>
@@ -539,13 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar!/org/jsoup/nodes/Element.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5494">
@@ -565,26 +761,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ElementResolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="68">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverByClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="68">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -593,33 +783,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverById.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="68">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverByText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="68">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -628,48 +810,120 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/resolvers/ResolverOnClick.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="68">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="1190">
           <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/application/WebCrawler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="184">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AgileEngineCrawlerTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jsoup-1.8.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
